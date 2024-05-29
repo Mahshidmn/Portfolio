@@ -4,8 +4,9 @@ import MobileNav from "@/components/MobileNav";
 import Hero from "@/components/Hero";
 import About from "@/components/About";
 import Services from "@/components/Services";
-import Perojects from "@/components/Perojects";
+import Projects from "@/components/Projects";
 import Skills from "@/components/Skills";
+import Footer from "@/components/Footer";
 
 
 const HomePage = () => {
@@ -24,7 +25,8 @@ const HomePage = () => {
             <About />
             <Services />
             <Skills />
-            <Perojects />
+            <Projects />
+            <Footer />
 
           </div>
 
@@ -34,6 +36,6 @@ const HomePage = () => {
   )
 }
 
-export default HomePage
+export default HomePage;
 
 

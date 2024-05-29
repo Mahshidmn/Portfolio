@@ -3,8 +3,8 @@ import React from 'react'
 
 const Services = () => {
   return (
-    <div className='bg-[#121121] pt-[4rem] md:pt-[8rem] pb-[5rem] flex flex-col'>
-        <p className='font-bold text-white text-[30px] mb-[5rem] mx-auto'>
+    <div className='bg-[#02050a] pt-[4rem] md:pt-[8rem] pb-[5rem] flex flex-col'>
+        <p className='font-bold text-white text-[50px] mb-[5rem] mx-auto'>
             My <span className='text-yellow-400'>Services</span>
         </p>
         <div>       

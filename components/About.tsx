@@ -4,7 +4,7 @@ import Image from 'next/image';
 
 function About() {
   return (
-    <div className='bg-[#121121] pb-[4rem] pt-[6rem] md:pt[8rem]'>
+    <div className='bg-[#02050a] pb-[4rem] pt-[6rem] md:pt[8rem]'>
       <div className='grid grid-cols-1 md:grid-cols-2 w-[80%] mx-auto gap-[6rem] items-center'>
         <div>
             <h1 className='text-[20px] font-bold uppercase text-[#55e6a5] mb-[1rem]'>
