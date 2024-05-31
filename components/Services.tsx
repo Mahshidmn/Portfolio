@@ -17,7 +17,7 @@ const Services = () => {
                                 Frontend
                             </h1>
                             <p className='text-[15px] text-[#d3d2d2] font-normal tracking-tighter text-justify'>
-                                Utilizing React, Next.js, JavaScript, and TypeScript, our frontend development services are geared towards creating responsive, high-performance websites. We focus on delivering user-friendly designs that enhance user engagement and drive business growth, ensuring a visually appealing and interactive experience across all platforms.
+                            Utilizing React, Next.js, JavaScript/TypeScript, Tailwind, and Bootstrap, our frontend development services focus is to create responsive, high-performance websites. We deliver user-friendly designs that enhance engagement and drive business growth, ensuring a visually appealing and interactive experience across all platforms..
                             </p>
                         </div>
                     </div>
@@ -28,7 +28,7 @@ const Services = () => {
                                 Backend
                             </h1>
                             <p className='text-[15px] text-[#d3d2d2] font-normal text-justify'>
-                                Our backend development leverages Node.js, Python, and both SQL and No-SQL databases to build reliable and efficient server-side solutions. We focus on constructing scalable architectures that support smooth data operations and consistent performance, laying a solid foundation for digital infrastructures.
+                                Backend development services leverages Node.js, Python, and both SQL and No-SQL databases to build reliable and efficient server-side solutions. We focus on constructing scalable architectures that support smooth data operations and consistent performance, laying a solid foundation for digital infrastructures.
                             </p>
                         </div>
                     </div>
