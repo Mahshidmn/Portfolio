@@ -61,7 +61,7 @@ const Footer = () => {
                     <div className='text-[16px] mb-[2rem] md:mb-0 text-white opacity-50'>
                             Mahshid M.Naeini 2024 | all Rights Reserved
                     </div>
-                    <div className='items-center space-x-10 text-white pl-[10rem] grid grid-cols-1 md:grid-cols-2 '>
+                    <div className='items-center space-x-10 text-white pl-[7rem] grid grid-cols-1 md:grid-cols-2 '>
                             <p className='text-[16px] text-white opacity-50'>Terms & Condition</p>
                             <p className='text-[16px] text-white opacity-50'>Privacy Policy</p>
                             <p className='text-[16px] text-white opacity-50'>Sitemap</p>
