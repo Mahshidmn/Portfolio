@@ -11,7 +11,7 @@ const Footer = () => {
         <div className='pt-[4rem] md:pt-[8rem] pb-[5rem] bg-[#02050a]'>
             <h1 className='font-bold text-white text-[50px] mb-[3rem] mx-auto text-center'>Contact</h1>
             <div className='flex flex-col pb-[3rem] border-gray-400  sm:ml-[1rem] ml-[2rem] md:ml-[6rem]'>
-                <div className='flex items-center justify-start space-x-6 py-[2rem] '>
+                <div className='flex items-center justify-start space-x-4 py-[2rem] '>
                     <div className='md:w-[4rem] md:h-[4rem] w-[3rem] h-[3rem] flex items-center justify-center rounded-full bg-yellow-400'>
                         <EnvelopeIcon className='md:w-[2.5rem] md:h-[2.5rem] w-[2rem] h-[2rem] text-black' />
                     </div>
@@ -24,9 +24,9 @@ const Footer = () => {
                         </p>
                     </div>
                 </div>
-                <div className='flex items-center space-x-6 py-[2rem]'>
+                <div className='flex items-center space-x-5 py-[2rem]'>
                     <a href="https://www.linkedin.com/in/mahshidmnaeini" target='_blank'>
-                        <div className='md:w-[4rem] md:h-[4rem] w-[2rem] h-[2rem] flex items-center justify-center rounded bg-yellow-500'>
+                        <div className='md:w-[4rem] md:h-[4rem] w-[2.5rem] h-[2.5rem] flex items-center justify-center rounded bg-yellow-500'>
                             <BsLinkedin className='md:w-[4rem] md:h-[4rem] w-[2rem] h-[2rem] cursor-pointer' />
                         </div>
                     </a>
@@ -39,7 +39,7 @@ const Footer = () => {
                         </a>
                     </div>
                 </div>
-                <div className='flex items-center space-x-6 py-[2rem]'>
+                <div className='flex items-center space-x-4 py-[2rem]'>
                     <a href="https://github.com/Mahshidmn" target='_blank'>
                     <div className='md:w-[4rem] md:h-[4rem] w-[3rem] h-[3rem] flex items-center justify-center rounded-full bg-yellow-400'>
                         <BsGithub className='md:w-[4rem] md:h-[4rem] w-[2rem] h-[2rem]' />
