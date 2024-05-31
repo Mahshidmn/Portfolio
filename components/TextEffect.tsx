@@ -11,11 +11,19 @@ const TextEffect = () => {
         1500,
         'Designer',
         1500,
-        'Programmer',
-        1500
+        'React Developer',
+        1500, 
+        'Next JS Developer',
+        1500,
+        'Node Js Developer',
+        1500,
+        'MERN Stack Developer',
+        1500,
+        'Python Developer',
+        1500,
       ]}
       speed={50}
-      className='text-[2rem] md:text-[2.5rem] text-[#55e6a5] font-bold uppercase'
+      className='text-[2rem] md:text-[2.5rem] text-blue-500 font-bold'
       repeat={Infinity}
     />
   );

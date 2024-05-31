@@ -21,25 +21,25 @@ const SkillsLanguages = ({
   return (
     <div>   
         <div className='relative mb-[3rem]'>
-            <h1 className='p-5 w-[100%] uppercase bg-gray-800 text-white rounded-sm text-[20px] font-bold'>
+            <h1 className='p-5 w-[100%] bg-blue-950 text-white rounded-sm text-[20px] font-bold'>
                 { skill1 }
             </h1>
-            <span className={`w-${level1} bottom-0 h-[6px] absolute bg-[#55e6a5]`}>
-            </span>
+            {/* <span className={`w-${level1} bottom-0 h-[6px] absolute bg-[#55e6a5]`}>
+            </span> */}
         </div>
         <div className='relative mb-[3rem]'>
-            <h1 className='p-5 w-[100%] uppercase bg-gray-800 text-white rounded-sm text-[20px] font-bold'>
+            <h1 className='p-5 w-[100%] bg-blue-950 text-white rounded-sm text-[20px] font-bold'>
                 { skill2 }
             </h1>
-            <span className={`w-${level2} bottom-0 h-[6px] absolute bg-[#55e6a5]`}>
-            </span>
+            {/* <span className={`w-${level2} bottom-0 h-[6px] absolute bg-[#55e6a5]`}>
+            </span> */}
         </div>
         <div className='relative mb-[3rem]'>
-            <h1 className='p-5 w-[100%] uppercase bg-gray-800  text-white rounded-sm text-[20px] font-bold'>
+            <h1 className='p-5 w-[100%] bg-blue-950 text-white rounded-sm text-[20px] font-bold'>
                 { skill3 }
             </h1>
-            <span className={`w-${level3} bottom-0 h-[6px] absolute bg-[#55e6a5]`}>
-            </span>
+            {/* <span className={`w-${level3} bottom-0 h-[6px] absolute bg-[#55e6a5]`}>
+            </span> */}
         </div>
     </div>
   );

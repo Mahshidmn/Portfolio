@@ -16,6 +16,7 @@ const navAnimation = nav ? "translate-x-0" : "translate-x-[-100%]";
             <div className='nav-link-mobile'>HOME</div>
             <div className='nav-link-mobile'>ABOUT</div>
             <div className='nav-link-mobile'>SERVICES</div>
+            <div className='nav-link-mobile'>SKILLS</div>
             <div className='nav-link-mobile'>PROJECTS</div>
             <div className='nav-link-mobile'>CONTACT</div>
         </div>
