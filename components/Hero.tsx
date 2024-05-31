@@ -13,11 +13,11 @@ const Hero = () => {
                 <div>
                     <h1 className='text-[#c4cfde] mb-[1.3rem]'>Welcome To My World</h1>
                     <h1 className='text-[35px] md:text-[45px] text-white font-bold'>
-                    Hi, I'm <span className='text-yellow-400'>Mahshid!</span>
+                    Hi, I&apos;m <span className='text-yellow-400'>Mahshid!</span>
                     </h1>
                     <TextEffect />
-                    <p className='mt-[1.5rem] text-[18px] text-[#ffffff92] '>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis, ipsam, eum sunt eligendi in quas explicabo blanditiis, quo fuga doloremque soluta! Nemo error velit eius.
+                    <p className='mt-[1.5rem] w-[80%] text-[18px] text-[#ffffff92] '>
+                    Never Stop <span className='text-yellow-400'>Learning</span>, Never Stop <span className='text-yellow-400'>Growing</span>.
                     </p>
                     <div className='mt-[2rem] flex-col space-y-6 sm:space-y-0 sm:flex sm:flex-row items-center sm:space-x-6'>
                         <button className='px-[2rem] py-[1rem] hover:bg-yellow-400 transition-all duration-200  text-[18px] font-bold uppercase bg-blue-500 text-black flex items-center rounded-xl'>
