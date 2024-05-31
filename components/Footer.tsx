@@ -26,7 +26,7 @@ const Footer = () => {
                 </div>
                 <div className='flex items-center space-x-5 py-[2rem]'>
                     <a href="https://www.linkedin.com/in/mahshidmnaeini" target='_blank'>
-                        <div className='md:w-[4rem] md:h-[4rem] w-[2.5rem] h-[2.5rem] flex items-center justify-center rounded bg-yellow-500'>
+                        <div className='md:w-[4rem] md:h-[4rem] w-[2.7rem] h-[2.7rem] flex items-center justify-center rounded bg-yellow-500'>
                             <BsLinkedin className='md:w-[4rem] md:h-[4rem] w-[2rem] h-[2rem] cursor-pointer' />
                         </div>
                     </a>
