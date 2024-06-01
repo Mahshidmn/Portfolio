@@ -8,7 +8,7 @@ import { BsGithub, BsLinkedin } from 'react-icons/bs';
 const Footer = () => {
   return (
     <section id="footer">
-        <div className='pt-[4rem] md:pt-[8rem] pb-[5rem] bg-[#02050a]'>
+        <div className='pt-[8rem] md:pt-[8rem] pb-[5rem] bg-[#02050a]'>
             <h1 className='font-bold text-white text-[50px] mb-[3rem] mx-auto text-center'>Contact</h1>
             <div className='flex flex-col pb-[3rem] border-gray-400  sm:ml-[1rem] ml-[2rem] md:ml-[6rem]'>
                 <div className='flex items-center justify-start space-x-4 py-[2rem] '>
