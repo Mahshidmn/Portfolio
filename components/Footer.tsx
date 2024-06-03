@@ -57,7 +57,7 @@ const Footer = () => {
             </div>
             <div className='border-t-[1px]'>
                 <div className='mt-[1rem] mb-[-3rem] mx-auto grid grid-cols-1 md:grid-cols-2 items-center justify-center text-center md:justify-between md:text-left whitespace-nowrap '>
-                     <div className='text-[16px] mb-[2rem] md:mb-0 text-white opacity-50'>
+                     <div className='text-[16px] mb-[2rem] md:mb-0 md:ml-[8rem] text-white opacity-50'>
                          Mahshid M.Naeini 2024 | all Rights Reserved
                     </div>
                     <div className='flex flex-col md:flex-row md:items-center space-y-2 md:space-y-0 md:space-x-10 text-white md:pl-[10rem]'>
