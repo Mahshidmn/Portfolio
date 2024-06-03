@@ -37,7 +37,7 @@ function About() {
                   </p>
               </div>
               <button className="px-[2rem] py-[1rem] hover:bg-yellow-400 transition-all duration-200  text-[18px] font-bold uppercase bg-blue-500 text-black flex items-center rounded-xl ">
-                  <a href="./Mahshid_CV_SE.pdf" target="_blank">Download CV</a>
+                  <a href="./Mahshid_SE_CV.pdf" target="_blank">Download CV</a>
                   <ArrowDownTrayIcon className="w-[4rem] h-[1.7rem] text-black" />
               </button>
           </div>
